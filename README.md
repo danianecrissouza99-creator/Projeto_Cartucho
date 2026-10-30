@@ -4,7 +4,7 @@ Quatro jogos de arcada num só site: **Nebula Strike** (solo), **Tank Duel** (co
 
 **▶ Jogar:** https://danianecrissouza99-creator.github.io/Projeto_Cartucho/
 
-Projeto da UC **Testes e Qualidade de Software** (ISTEC). Os jogos têm defeitos de propósito: o objetivo é encontrá-los e registá-los.
+Projeto da UC **Testes e Qualidade de Software** (ISTEC).
 
 Feito com HTML, CSS e JavaScript.
 
